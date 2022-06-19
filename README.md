@@ -1,5 +1,5 @@
 <h1>Hi, I'm Vishesh 👨🏻‍💻!</h1>
-<h3> I'm an Engineering Junior at Cluster Innovation Centre, University of Delhi </h3>
+<h3> I'm an Engineering Senior at Cluster Innovation Centre, University of Delhi </h3>
 
 <h2> Software Development Projects 👨‍💻:</h2>
 
@@ -31,7 +31,7 @@
 </a>
 </p>
 
-<h2> Other Profiles :</h2>
+<h2> Connect with me & check my other profiles :</h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visheshsinha/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/visheshsinha/) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/visheshsinha) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/visheshsinha/competitions?tab=completed)
 
