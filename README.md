@@ -1,7 +1,10 @@
 <h1>Hi, I'm Vishesh 👨🏻‍💻!</h1>
-<h3> I'm an Engineering Senior at Cluster Innovation Centre, University of Delhi </h3>
+<h3>
+Backend Engineer Intern at Wysa | Engineering Senior at University of Delhi, with a focus on Software Engineering & 2+ years of experience in Backend Technologies.
+Excellent problem-solving skills and ability to perform well in a team. Seeking to grow and develop my own skills as a coder.
+</h3>
 
-<h2> Software Development Projects 👨‍💻:</h2>
+<h2> Projects 👨‍💻:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode, GFG & other platforms)</b>
   - [Praciting DS & Algos in Python](https://github.com/visheshsinha/dsa-python)
