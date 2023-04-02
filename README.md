@@ -1,10 +1,20 @@
 <h1>Hi, I'm Vishesh 👨🏻‍💻!</h1>
-<h3>
-Backend Engineer Intern at Wysa | Engineering Senior at University of Delhi, with a focus on Software Engineering & 2+ years of experience in Backend Technologies.
-Excellent problem-solving skills and ability to perform well in a team. Seeking to grow and develop my own skills as a coder.
-</h3>
 
-<h2> Projects 👨‍💻:</h2>
+Currently working as a <b> Backend Engineer Intern </b> at [Wysa](https://www.wysa.com/)
+
+Work Account - [visheshsinha1](https://github.com/visheshsinha1) 
+
+Result-oriented individual with a problem solving mindset & a creative team player with a strong background in Backend
+Technologies with 2+ years of experience. Seeking to showcase my skills in programming to generate high-end solutions to general
+software issues along with drawing better user experience.
+
+Check my qualifications & experience - [Vishesh's Resume](https://drive.google.com/file/d/1E-efktYSg3vwyfZFrIIeiO82HvAA8ecL/view?usp=share_link)
+
+<h4> Connect with me & check my other profiles :</h4>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visheshsinha/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/visheshsinha/) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/visheshsinha) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/visheshsinha/competitions?tab=completed)
+
+<h4> Projects 👨‍💻:</h4>
 
 - <b>Data Structures and Algorithms Practice (LeetCode, GFG & other platforms)</b>
   - [Praciting DS & Algos in Python](https://github.com/visheshsinha/dsa-python)
@@ -34,9 +44,7 @@ Excellent problem-solving skills and ability to perform well in a team. Seeking 
 </a>
 </p>
 
-<h2> Connect with me & check my other profiles :</h2>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visheshsinha/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/visheshsinha/) [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/visheshsinha) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/visheshsinha/competitions?tab=completed)
 
 <!-- [<img align="left" alt="VisheshSinha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="VisheshSinha | LeetCode" width="22px" src="https://www.svgrepo.com/show/341985/leetcode.svg" />][LeetCode]
