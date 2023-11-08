@@ -1,11 +1,11 @@
 <h1>Hi, I'm Vishesh 👨🏻‍💻!</h1>
 
-Currently working as a <b> Backend Engineer Intern </b> at [Wysa](https://www.wysa.com/)
+Currently working as a <b> Backend Engineer </b> at [Wysa](https://www.wysa.com/)
 
 Work Account - [visheshsinha1](https://github.com/visheshsinha1) 
 
 Result-oriented individual with a problem solving mindset & a creative team player with a strong background in Backend
-Technologies with 2+ years of experience. Seeking to showcase my skills in programming to generate high-end solutions to general
+Technologies with 2+ YOE. Seeking to showcase my skills in programming to generate high-end solutions to general
 software issues along with drawing better user experience.
 
 Check my qualifications & experience - [Vishesh's Resume](https://drive.google.com/file/d/1E-efktYSg3vwyfZFrIIeiO82HvAA8ecL/view?usp=share_link)
