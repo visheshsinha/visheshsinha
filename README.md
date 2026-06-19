@@ -1,14 +1,12 @@
 <h1>Hi, I'm Vishesh 👨🏻‍💻!</h1>
 
-Currently working as a <b> Backend Engineer </b> at [Wysa](https://www.wysa.com/)
+Currently working as a <b> Senior Backend Engineer 
 
-Work Account - [visheshsinha1](https://github.com/visheshsinha1) 
+Dormant Work Account - [visheshsinha1](https://github.com/visheshsinha1) 
 
-Result-oriented individual with a problem solving mindset & a creative team player with a strong background in Backend
-Technologies with 2+ YOE. Seeking to showcase my skills in programming to generate high-end solutions to general
-software issues along with drawing better user experience.
+Versatile Backend-focused Software Engineer with 3+ years of experience building scalable SaaS products and internal
 
-Check my qualifications & experience - [Vishesh's Resume](https://drive.google.com/file/d/1E-efktYSg3vwyfZFrIIeiO82HvAA8ecL/view?usp=share_link)
+Check my qualifications & experience - [Vishesh's Resume](https://drive.google.com/file/d/1TLnKOCCk53H5EmcF1pO3F6kech6YFZaE/view)
 
 <h4> Connect with me & check my other profiles :</h4>
 
@@ -44,6 +42,8 @@ Check my qualifications & experience - [Vishesh's Resume](https://drive.google.c
 </a>
 </p>
 
+
+PS: Beware of GitHub Profile Spoofing, if you are sent a repo with my commits in it & it's unverified commit + doesn't appear on my timeline, that repo is likely malicious, read about how Stolen Identity + RCE Hidden in Plain Sight can compromise your system disguised as a Technical Assignment : [Medium Article - RCE Backdoor: I Almost Got Owned by a Fake Metatheory Job Interview](https://medium.com/@visheshsinha_/rce-backdoor-i-almost-got-owned-by-a-fake-metatheory-job-interview-3e89acf21150)
 
 
 <!-- [<img align="left" alt="VisheshSinha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
