@@ -1,10 +1,11 @@
 <h1>Hi, I'm Vishesh 👨🏻‍💻!</h1>
 
-Currently working as a <b> Senior Backend Engineer 
+Currently working as a <b> Senior Software Engineer 
 
 Dormant Work Account - [visheshsinha1](https://github.com/visheshsinha1) 
 
-Versatile Backend-focused Software Engineer with 3+ years of experience building scalable SaaS products and internal
+Backend-focused Software Engineer with almost 4 years of experience building secure & scalable SaaS products and
+internal platforms from zero to one. Expertise in backend architecture, AI-augmented development, and product-led engineering.
 
 Check my qualifications & experience - [Vishesh's Resume](https://drive.google.com/file/d/1TLnKOCCk53H5EmcF1pO3F6kech6YFZaE/view)
 
